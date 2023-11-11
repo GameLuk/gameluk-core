@@ -35,7 +35,7 @@ quote = "USD"
 
 [account]
 address = "address"
-chain_id = "sei"
+chain_id = "gameluk"
 validator = "validator"
 prefix = "sei"
 

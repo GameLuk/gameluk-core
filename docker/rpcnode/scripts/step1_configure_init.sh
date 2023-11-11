@@ -8,7 +8,7 @@ seid version # Uncomment the below line if there are any dependency issues
 # ldd build/seid
 
 # Initialize validator node
-MONIKER="sei-rpc-node"
+MONIKER="gameluk-rpc-node"
 seid init --chain-id sei "$MONIKER"
 
 # Copy configs
